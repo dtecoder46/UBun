@@ -14,3 +14,8 @@ A website template that bundles Tailwind utility classes to make styling faster
 
 # Notes
 1. Don't run bunconfig.sh, just copy the commands after you create a new directory where a bun command must be run
+
+# Sources
+[Bun](https://bun.com/docs)
+[TailwindCSS](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
+[NextJS](https://nextjs.org/docs/app/getting-started/installation)
