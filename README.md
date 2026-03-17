@@ -2,11 +2,9 @@
 A website template that bundles Tailwind utility classes to make styling faster
 
 ## Tech Stack
-1. React
-2. SWC
-3. Vite
-4. ESLint
-5. BASH
+1. React w/ Compiler
+2. Vite
+3. Tailwind
 
 # How to Run
 
