@@ -18,6 +18,3 @@ A website template that bundles Tailwind utility classes to make styling faster
 # Sources
 [Bun](https://bun.com/docs)
 [TailwindCSS](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
-[NextJS](https://nextjs.org/docs/app/getting-started/installation)
-[Gemini: How to use Tailwind in TSX](https://share.google/aimode/oe4wJVi9RieUbweP2)
-[Gemini: Bun equivalent of npx](https://share.google/aimode/PZsYQOxaq1QjEDywI)
