@@ -12,17 +12,20 @@ function App() {
   const center = "place-items-center place-self-center"
   const button = "text-center"
 
+  const bold = "font-bold"
+
+  const heading = "text-amber-300, font-mono"
   return (
     <>
-      <div className={ classnames( center ) }>
+      <div className={ classnames( center, heading) }>
         <br></br>
-        <h1 className={ classnames( h1 ) }>Hello world!</h1>
-        <h2 className={ classnames( h2 ) }>Welcome to UBun</h2>
-        <h3 className={ classnames( h3 ) }>Feel free to fork this template</h3>
+        <h1 className={ classnames( h1, bold) }>Hello world!</h1>
+        <h2 className={ classnames( h2, bold) }>Welcome to UBun</h2>
+        <h3 className={ classnames( h3, bold) }>Feel free to fork this template</h3>
       <br></br>
       </div>
 
-      <h3 className={ classnames( h1, center ) }>Why UBun?</h3>
+      <h3 className={ classnames( h1, bold, center, heading) }>Why UBun?</h3>
       <p className={ classnames( center ) }>Tailwind is better than regular CSS</p>
       <p className={ classnames( center ) }>But for projects with lots utility classes that are shared across multiple elements</p>
 
