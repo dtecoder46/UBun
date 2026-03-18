@@ -1,3 +1,5 @@
+![UBun logo](./UBun_Dir/graphics/UBun.svg)
+
 # UBun
 A website template that bundles Tailwind utility classes to make styling faster
 
@@ -29,3 +31,13 @@ bun run dev
 [React Multiple ClassNames](https://www.dhiwise.com/post/the-definitive-handbook-to-react-multiple-class-name)
 
 [How to center buttons in Tailwind](https://tailkits.com/blog/tailwind-css-centering/#centering-buttons)
+
+# Logo Credits
+
+[Wikipedia: image of a bundle of mats](https://tinyurl.com/mat-bundle)
+
+[TinyURL](https://tinyurl.com/)
+
+[TailwindCSS](https://tailwindcss.com)
+
+[Reddit: Tailwind font](https://tinyurl.com/tailwind-font)

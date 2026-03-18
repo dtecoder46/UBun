@@ -14,9 +14,11 @@ function App() {
 
   const bold = "font-bold"
 
-  const heading = "text-amber-300, font-mono"
+  const heading = "text-amber-300 font-mono"
+  
   return (
     <>
+      <img src="./graphics/UBun.svg" className={center}></img>
       <div className={ classnames( center, heading) }>
         <br></br>
         <h1 className={ classnames( h1, bold) }>Hello world!</h1>
