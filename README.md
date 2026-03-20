@@ -32,6 +32,8 @@ bun run dev
 
 [How to center buttons in Tailwind](https://tailkits.com/blog/tailwind-css-centering/#centering-buttons)
 
+[w3Schools HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+
 # Logo Credits
 
 [Wikipedia: image of a bundle of mats](https://tinyurl.com/mat-bundle)
