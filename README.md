@@ -7,6 +7,7 @@ A website template that bundles Tailwind utility classes to make styling faster
 1. React w/ Compiler
 2. Vite
 3. Tailwind
+4. Bun
 
 # How to Run
 1. Fork this repo into your favorite IDE
@@ -20,6 +21,15 @@ bun run dev
 1. Groups of utility classes are defined as string constants 
 2. These string constants are referenced in the className property of each HTML element
 3. To use multiple utility class bundles, use the classnames() function and list each constant out
+
+# Recommended If...
+1. You write a lot of utility classes
+- You can now define these large sets of utility classes in constants
+- Still need to write a lot of classes, but only once instead of multiple times for each HTML element
+2. These utility classes are shared across multiple HTML elements
+- Same benefits as stated above
+3. You hate manually updating each HTML class attribute whenever you modify a utility class in a utility class bundle which is shared across elements
+- Now, all you need to do is update the utility class constant once! All HTML elements sharing the utility class bundle will automatically be updated after each change!
 
 # Sources
 [Bun](https://bun.com/docs)
