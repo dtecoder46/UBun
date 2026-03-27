@@ -1,8 +1,7 @@
 ![UBun logo](./UBun_Dir/graphics/UBun.svg)
 
 # UBun
-"Style once, use everywhere"
-
+"Style once, use everywhere" <br>
 A website template that bundles Tailwind utility classes to make styling faster
 
 ## Tech Stack
